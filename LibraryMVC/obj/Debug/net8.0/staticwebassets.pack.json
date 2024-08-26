@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LibraryMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LibraryMVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\1984.jpg",
+      "PackagePath": "staticwebassets\\Books\\1984.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\Background.jpeg",
+      "PackagePath": "staticwebassets\\Books\\Background.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\animal_farm.jpg",
+      "PackagePath": "staticwebassets\\Books\\animal_farm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\brave_new_world.jpg",
+      "PackagePath": "staticwebassets\\Books\\brave_new_world.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\brothers_karamazov.jpg",
+      "PackagePath": "staticwebassets\\Books\\brothers_karamazov.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\catcher_in_the_rye.jpg",
+      "PackagePath": "staticwebassets\\Books\\catcher_in_the_rye.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\crime_and_punishment.jpg",
+      "PackagePath": "staticwebassets\\Books\\crime_and_punishment.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\fahrenheit_451.jpg",
+      "PackagePath": "staticwebassets\\Books\\fahrenheit_451.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\great_gatsby.jpg",
+      "PackagePath": "staticwebassets\\Books\\great_gatsby.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\jane_eyre.jpg",
+      "PackagePath": "staticwebassets\\Books\\jane_eyre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\lord_of_the_rings.jpg",
+      "PackagePath": "staticwebassets\\Books\\lord_of_the_rings.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\moby_dick.jpg",
+      "PackagePath": "staticwebassets\\Books\\moby_dick.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\pride_and_prejudice.jpg",
+      "PackagePath": "staticwebassets\\Books\\pride_and_prejudice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\the_alchemist.jpg",
+      "PackagePath": "staticwebassets\\Books\\the_alchemist.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\the_hobbit.jpg",
+      "PackagePath": "staticwebassets\\Books\\the_hobbit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\Books\\to_kill_a_mockingbird.jpg",
+      "PackagePath": "staticwebassets\\Books\\to_kill_a_mockingbird.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\shrin\\source\\repos\\LibraryMVC\\LibraryMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LibraryMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LibraryMVC.props",
+      "PackagePath": "build\\LibraryMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LibraryMVC.props",
+      "PackagePath": "buildMultiTargeting\\LibraryMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LibraryMVC.props",
+      "PackagePath": "buildTransitive\\LibraryMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
